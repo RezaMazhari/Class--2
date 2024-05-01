@@ -1,7 +1,7 @@
 # Class--2
 Data Base
 <h2 dir="rtl"> نام و نام خانوادگی: رضا مظهری</h2>
-<h2 dir="rtl">موضوع: Cashing server , logstash , Data Warehouse </h2>
+<h2 dir="rtl">موضوع: امنیت در پایگاه داده ، مدیریت داده های بزرگ </h2>
 
 <div dir = "rtl">
 
